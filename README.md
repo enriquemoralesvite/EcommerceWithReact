@@ -52,3 +52,21 @@ export default tseslint.config({
   },
 })
 ```
+## 🛒 Proyecto Ecommerce
+
+Este sitio web es una tienda en línea construida con React, TypeScript y Vite. Puedes explorarlo en funcionamiento aquí: [ecommercewithreact1.vercel.app](https://ecommercewithreact1.vercel.app/)
+
+### ✨ Funcionalidades destacadas
+
+- Navegación fluida entre productos mediante React Router
+- Listado de productos con información como nombre, precio y descripción
+- Carrito de compras dinámico: agrega y elimina productos fácilmente
+- Estilo moderno y responsive gracias a Tailwind CSS
+- Manejo de estado optimizado con React Context
+
+### 🚀 Objetivo del proyecto
+
+Este ecommerce fue creado con fines educativos y prácticos, como parte del aprendizaje de desarrollo web moderno utilizando herramientas como Vite, React y TypeScript. Es un excelente punto de partida para agregar características como integración con pasarelas de pago, autenticación de usuarios o panel de administración.
+
+---
+
